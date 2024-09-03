@@ -147,7 +147,7 @@ a.main-button-slider {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #28a745;
+  background-color: #01493d;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -166,7 +166,7 @@ a.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color:#28a745;
+  background-color:#01493d;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -188,7 +188,7 @@ button.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #28a745;
+  background-color: #01493d;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -219,7 +219,7 @@ button.main-button:hover {
 
 .center-heading h2 em {
   font-style: normal;
-  color: #28a745;
+  color: #01493d;
 }
 
 .center-heading p {
@@ -247,15 +247,15 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #28a745!important;
+  color: #01493d!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color:#28a745!important;
+  color:#01493d!important;
 }
 
 .background-header .nav li a.active {
-  color: #28a745!important;
+  color: #01493d!important;
 }
 
 .header-area {
@@ -332,7 +332,7 @@ header
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #28a745;
+  color: #01493d;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -397,12 +397,12 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #28a745;
+  background: #01493d;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #28a745!important;
+  color: #01493d!important;
   padding-left: 25px;
 }
 
@@ -538,7 +538,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #28a745;
+  color: #01493d;
 }
 
 @media (max-width: 1200px) {
@@ -606,7 +606,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #28a745!important;
+    color: #01493d!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -660,7 +660,7 @@ welcome
   background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
   background-position: right top;
-  background-size: 50%; /* Adjust the percentage to control the size */
+  background-size: 70%; /* Adjust the percentage to control the size */
 }
 
 .welcome-area .header-text .left-text {
@@ -681,7 +681,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #28a745;
+  color: #01493d;
 }
 
 .welcome-area .header-text p {
@@ -874,8 +874,8 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: #28a745;
-  background: linear-gradient(145deg, #28a745 0%, #00473C 100%);
+  background: #01493d;
+  background: linear-gradient(145deg, #01493d 0%, #00473C 100%);
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -928,8 +928,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: #28a745;
-  background: linear-gradient(145deg, #28a745 0%, #00473C 100%);
+  background: #01493d;
+  background: linear-gradient(145deg, #01493d 0%, #00473C 100%);
   position: absolute;
 }
 
@@ -945,8 +945,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: #28a745;
-  background: linear-gradient(145deg, #28a745 0%, #00473C 100%);
+  background: #01493d;
+  background: linear-gradient(145deg, #01493d 0%, #00473C 100%);
   position: absolute;
 }
 
@@ -1061,7 +1061,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color:#28a745;
+  color:#01493d;
 }
 
 .footer-content .right-content p {
@@ -1073,7 +1073,7 @@ footer .right-content {
 }
 
 .footer-content .right-content a:hover {
-  color:#28a745;
+  color:#01493d;
 }
 
 footer .social {
@@ -1108,8 +1108,8 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #01493d;
+  border-color: #01493d;
   color: #fff;
 }
 
@@ -1133,7 +1133,7 @@ footer .sub-footer a {
 }
 
 footer .sub-footer a:hover {
-	color:#28a745;
+	color:#01493d;
 }
 
 footer .sub-footer p {
@@ -1159,7 +1159,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #28a745 0%, #00473C 100%);
+  background-image: linear-gradient(145deg, #01493d 0%, #00473C 100%);
   left: 0;
   right: 0;
   top: 0;
